@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Nami/static/css/main.fa05426f.css",
+    "main.js": "/Nami/static/js/main.e9e7a7f8.js",
+    "static/media/nami 1.jpg": "/Nami/static/media/nami 1.bd835ed6e025ea99f76f.jpg",
+    "index.html": "/Nami/index.html",
+    "main.fa05426f.css.map": "/Nami/static/css/main.fa05426f.css.map",
+    "main.e9e7a7f8.js.map": "/Nami/static/js/main.e9e7a7f8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa05426f.css",
+    "static/js/main.e9e7a7f8.js"
+  ]
+}
